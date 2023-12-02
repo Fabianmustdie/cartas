@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .body{
+    font-family: 'Roboto', sans-serif;
+  }
+
+
+
+  .bg-green{
+
+    background-color: #28A745;
+  }
+
+  .card img{
+    height: 228px;
+    object-fit: cover;
+  }
